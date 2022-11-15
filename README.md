@@ -6,6 +6,12 @@
 
 [Markdown](edgetech_plus_gowin_fpga.md) [PDF](edgetech_plus_gowin_fpga.pdf)
 
+## 動画
+
+* DVI出力
+
+![動画](./figure/dvi_logo.mp4)
+
 ## ライセンス
 
 CC4.0 BY
